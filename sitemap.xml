@@ -3,14 +3,21 @@
   
   <url>
     <loc>http://treenesting.com/</loc>
-    <lastmod>2023-10-17T23:16:40-05:00</lastmod>
+    <lastmod>2023-10-18T18:38:17-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://treenesting.com/post/</loc>
-    <lastmod>2023-10-17T23:16:40-05:00</lastmod>
+    <lastmod>2023-10-18T18:38:17-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://treenesting.com/post/test2/</loc>
+    <lastmod>2023-10-18T18:38:17-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
