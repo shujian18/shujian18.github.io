@@ -1,101 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jane - A super concise theme for Hugo</title>
+    <title>Categories on Jian blog</title>
     <link>http://treenesting.com/categories/</link>
-    <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
+    <description>Recent content in Categories on Jian blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://treenesting.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>http://treenesting.com/categories/development/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://treenesting.com/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docs</title>
-      <link>http://treenesting.com/categories/docs/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://treenesting.com/categories/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>http://treenesting.com/categories/index/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://treenesting.com/categories/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>http://treenesting.com/categories/golang/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://treenesting.com/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demo</title>
-      <link>http://treenesting.com/categories/demo/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>http://treenesting.com/categories/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>http://treenesting.com/categories/math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>http://treenesting.com/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>http://treenesting.com/categories/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>http://treenesting.com/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>http://treenesting.com/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://treenesting.com/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://treenesting.com/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://treenesting.com/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>http://treenesting.com/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>http://treenesting.com/categories/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-cn</language><atom:link href="http://treenesting.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
