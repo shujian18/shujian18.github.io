@@ -1,43 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>水巷4号</title>
-    <link>http://treenesting.com/</link>
-    <description>Recent content on 水巷4号</description>
+    <title>“买车”“人生大事” on 水巷4号</title>
+    <link>http://treenesting.com/tags/%E4%B9%B0%E8%BD%A6%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B/</link>
+    <description>Recent content in “买车”“人生大事” on 水巷4号</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Oct 2023 22:13:09 -0500</lastBuildDate>
-    
-        <atom:link href="http://treenesting.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>欢迎来到水巷4号</title>
-      <link>http://treenesting.com/post/aboutme/</link>
-      <pubDate>Wed, 18 Oct 2023 22:54:00 -0500</pubDate>
-      
-      <guid>http://treenesting.com/post/aboutme/</guid>
-      
-        <description>&lt;p&gt;&lt;img src=&#34;http://treenesting.com/image/ME.jpg&#34; alt=&#34;&#34;&gt;
-&lt;br&gt;
-  &lt;font size=7&gt;我&lt;/font&gt;是Jian, 药物动力学PhD，海上运动爱好者，中国传统乐器爱好者，健身小白。老家安徽宣城，曾在南京，兰州和北京生活2年或以上，目前base in Houston. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;  以下是我较为独特的经历：博鳌深度游；风筝冲浪；在哲学书籍中追寻过幸福的含义；考研并调剂；雅思7.5；在清华大学做过科研助理；DIY申请美国博士。如果你觉得这些经历能对你有帮助，欢迎评论或通过页面底部的email图标发送email交流，这是建立博客的初衷之一。 &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;  此外，这里将存放我的生活记录，反思，个人向攻略，手机里的搞笑图片XD，幼儿园水平的摄影作品等等。更新频率大概&amp;hellip;一星期一次？ &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;  最后，祝愿你能在这页扁舟上寻得快乐，或者，更好的，共鸣。 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;  &lt;font face=&#34;黑体&#34; size=2&gt;&amp;ldquo;智慧生活所追求的是一个无私的目的，其中没有竞争，更没有仇恨。它所追求的结合是无限的，它想知道一切，爱一切，愿服务一切。它四海为家，任何墙垣也阻止不了它的前进。&amp;rdquo;
-       ——伯特兰·亚瑟·威廉·罗素&lt;/font&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
+    <lastBuildDate>Sat, 21 Oct 2023 22:13:09 -0500</lastBuildDate><atom:link href="http://treenesting.com/tags/%E4%B9%B0%E8%BD%A6%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>休斯顿买车记</title>
       <link>http://treenesting.com/post/carpurchase/</link>
       <pubDate>Sat, 21 Oct 2023 22:13:09 -0500</pubDate>
       
       <guid>http://treenesting.com/post/carpurchase/</guid>
-      
-        <description>&lt;h2 id=&#34;题记&#34;&gt;题记&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;题记&#34;&gt;题记&lt;/h2&gt;
 &lt;p&gt;  买第一辆车绝对可以成为人生大事之一，本文就记录一下我第一辆车的买车过程。&lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&#34;买什么车去哪买呢&#34;&gt;买什么车，去哪买呢&lt;/h2&gt;
 &lt;h3 id=&#34;为什么买车&#34;&gt;为什么买车&lt;/h3&gt;
@@ -78,7 +54,6 @@
 &lt;/ul&gt;
 &lt;p&gt;以上
 &lt;br&gt;&lt;p align=&#34;right&#34;&gt;&lt;font face=&#34;黑体&#34; size=2&gt;2023年10月28日 于休斯顿&lt;/font&gt;&lt;/p&gt;&lt;/p&gt;</description>
-      
     </item>
     
   </channel>
