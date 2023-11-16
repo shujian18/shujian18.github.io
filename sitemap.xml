@@ -9,6 +9,27 @@
   </url>
   
   <url>
+    <loc>http://treenesting.com/post/</loc>
+    <lastmod>2023-11-12T19:58:26-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://treenesting.com/post/diary11-12-2023/</loc>
+    <lastmod>2023-11-12T19:58:26-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://treenesting.com/</loc>
+    <lastmod>2023-11-12T19:58:26-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://treenesting.com/tags/%E4%B9%B0%E8%BD%A6%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B/</loc>
     <lastmod>2023-10-28T22:13:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,21 +44,7 @@
   </url>
   
   <url>
-    <loc>http://treenesting.com/post/</loc>
-    <lastmod>2023-10-28T22:13:09-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://treenesting.com/tags/</loc>
-    <lastmod>2023-10-28T22:13:09-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://treenesting.com/</loc>
     <lastmod>2023-10-28T22:13:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
